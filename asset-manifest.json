@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/api-github-tsvo/static/js/main.b9e0ed8c.js",
+    "static/js/787.f8e58e84.chunk.js": "/api-github-tsvo/static/js/787.f8e58e84.chunk.js",
+    "index.html": "/api-github-tsvo/index.html",
+    "main.b9e0ed8c.js.map": "/api-github-tsvo/static/js/main.b9e0ed8c.js.map",
+    "787.f8e58e84.chunk.js.map": "/api-github-tsvo/static/js/787.f8e58e84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b9e0ed8c.js"
+  ]
+}
