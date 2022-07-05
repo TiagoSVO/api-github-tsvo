@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/api-github-tsvo/static/js/main.2ae69dd1.js",
+    "main.js": "/api-github-tsvo/static/js/main.fbf4349c.js",
     "static/js/787.f8e58e84.chunk.js": "/api-github-tsvo/static/js/787.f8e58e84.chunk.js",
     "index.html": "/api-github-tsvo/index.html",
-    "main.2ae69dd1.js.map": "/api-github-tsvo/static/js/main.2ae69dd1.js.map",
+    "main.fbf4349c.js.map": "/api-github-tsvo/static/js/main.fbf4349c.js.map",
     "787.f8e58e84.chunk.js.map": "/api-github-tsvo/static/js/787.f8e58e84.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.2ae69dd1.js"
+    "static/js/main.fbf4349c.js"
   ]
 }
