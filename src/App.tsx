@@ -1,5 +1,7 @@
 import React from 'react';
 
+import HomePage from './pages/HomePage';
+
 function App() {
   return (
     <div className="App">
@@ -9,6 +11,7 @@ function App() {
       <body>
         <h2>Um título interessante.</h2>
         <p>Aqui vai um paragrafo interessante.</p>
+        <HomePage />
       </body>
     </div>
   );
